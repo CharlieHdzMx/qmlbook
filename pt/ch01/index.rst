@@ -1,5 +1,5 @@
 ========================
-Conheça o framework Qt 5
+Conociendo el Framework Qt 5
 ========================
 
 .. sectionauthor:: `jryannel <https://github.com/jryannel>`_, `micdoug <https://github.com/micdoug>`_
