@@ -9,7 +9,7 @@ Este capitulo provee un resumen de alto nivel de Qt 5. Muestra los diferentes mo
 Prefacio
 =======
 
-.. rubric:: History
+.. rubric:: Historia
 
 Qt 4 ha evolucionado desde 2005 y ha proveido una base solida para miles de aplicaciones, e incluso para sistemas mobiles y de escritorio. El uso de patrones de usuarios de computadora cambio en los años recientes. Desde PC's estacionarias hacia Notebooks protables y hoy en dia en computadoras mobiles. La maquina de escritorio clasica es mas y mas reemplazada con dispositivos mobiles de pantalla basada al tacto. Con esto, los paradigmas UX de computadora clasica tambien han cambiado. Donde en el pasado Windows UI domino el mundo donde pasamos mas tiempo en estos dias que en otras pantallas con otros lenguajes UI.
 
